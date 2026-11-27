@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.pizzeriaapp.utils.ValidacionesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-27T05:59:39.395Z" hostname="TUF25" time="0.027">
+  <properties/>
+  <testcase name="motivoConsultaValido" classname="com.example.pizzeriaapp.utils.ValidacionesTest" time="0.011"/>
+  <testcase name="correoValido" classname="com.example.pizzeriaapp.utils.ValidacionesTest" time="0.005"/>
+  <testcase name="edadMascotaValida" classname="com.example.pizzeriaapp.utils.ValidacionesTest" time="0.0"/>
+  <testcase name="telefonoValido" classname="com.example.pizzeriaapp.utils.ValidacionesTest" time="0.001"/>
+  <testcase name="nombreValido" classname="com.example.pizzeriaapp.utils.ValidacionesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

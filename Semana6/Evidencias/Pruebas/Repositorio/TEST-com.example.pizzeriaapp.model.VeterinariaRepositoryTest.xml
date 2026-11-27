@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.pizzeriaapp.model.VeterinariaRepositoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-11-27T06:05:17.057Z" hostname="TUF25" time="0.044">
+  <properties/>
+  <testcase name="registrarConsultaDeMascotaExistente" classname="com.example.pizzeriaapp.model.VeterinariaRepositoryTest" time="0.035"/>
+  <testcase name="rechazarMascotaDuplicada" classname="com.example.pizzeriaapp.model.VeterinariaRepositoryTest" time="0.001"/>
+  <testcase name="rechazarConsultaSinMascota" classname="com.example.pizzeriaapp.model.VeterinariaRepositoryTest" time="0.001"/>
+  <testcase name="registrarDuenoCorrectamente" classname="com.example.pizzeriaapp.model.VeterinariaRepositoryTest" time="0.0"/>
+  <testcase name="rechazarMascotaSinDueno" classname="com.example.pizzeriaapp.model.VeterinariaRepositoryTest" time="0.0"/>
+  <testcase name="rechazarDuenoDuplicado" classname="com.example.pizzeriaapp.model.VeterinariaRepositoryTest" time="0.001"/>
+  <testcase name="registrarMascotaConDuenoExistente" classname="com.example.pizzeriaapp.model.VeterinariaRepositoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
